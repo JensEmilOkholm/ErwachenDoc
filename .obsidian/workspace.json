@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "89da4f66b7805810",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb8e849df87fb7e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "517b63490c055e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03adf5f59186d3e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "90300d3cd6a809bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "996b56cc9c223c0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c67ed8eb1f309095",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f34df0baf3289d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "477418bedb531b1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec9c34d352a48dfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5243b08d101202b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00c98f66fb8b5fc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f183beea9c8ce468",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d9ce4582b36fd97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "517b63490c055e40",
+  "lastOpenFiles": [
+    "Erwachen Core.md",
+    "index.md",
+    "README.md",
+    "Erwachen/Species/Unique being.md",
+    "Erwachen/Species/Human.md",
+    "Erwachen/Species/Halfling - Svirfneblin.md",
+    "Erwachen/Species/Halfling - Heartlander.md",
+    "Erwachen/Species/Halfling - Gnome.md",
+    "Erwachen/Species/Elf.md",
+    "Erwachen/Species/Dwarf.md",
+    "Erwachen/Species/Deepling.md",
+    "Erwachen/Species",
+    "Erwachen/playbooks/Swindler.md",
+    "Erwachen/playbooks/Pusher.md",
+    "Erwachen/playbooks/Preacher.md",
+    "Erwachen/playbooks/Poacher.md",
+    "Erwachen/playbooks/Pikesman.md",
+    "Erwachen/playbooks/Merchant.md",
+    "Erwachen/playbooks/Hunter.md",
+    "Erwachen/playbooks/Heretic.md",
+    "Erwachen/playbooks/Diplomat.md",
+    "Erwachen/playbooks/Burglar.md",
+    "Erwachen/playbooks/Bruiser.md",
+    "Erwachen/playbooks",
+    "Erwachen/Moves/Try.md",
+    "Erwachen/Moves/Roam Freely.md",
+    "Erwachen/Moves/Convince and Coerce.md",
+    "Erwachen/Moves/Pick a Lock.md",
+    "Erwachen/Moves",
+    "Erwachen/Core Rules",
+    "Erwachen/Archived",
+    "Erwachen"
+  ]
+}
