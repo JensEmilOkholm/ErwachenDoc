@@ -1,3 +1,7 @@
+---
+title: Bruiser
+---
+
 +2 [[Force]]  
 +1 [[Vigil]]
 

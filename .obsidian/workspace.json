@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "docs/playbooks/Bruiser.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "docs/playbooks/Bruiser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "docs/playbooks/Bruiser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "docs/playbooks/Bruiser.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "517b63490c055e40",
   "lastOpenFiles": [
+    "index.md",
     "docs/Species/Unique being.md",
     "docs/Species/Halfling - Svirfneblin.md",
     "docs/Species/Human.md",
@@ -173,7 +174,6 @@
     "docs/Moves/Pass Unseen.md",
     "docs/Moves/Make a Last Ditch Effort.md",
     "docs/Moves/Fend and Assail.md",
-    "docs/Moves/Help a Friend.md",
     "docs/Species",
     "docs/playbooks",
     "docs/Moves",
