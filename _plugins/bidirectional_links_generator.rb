@@ -96,7 +96,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
           # source: note_id_from_note(n),
           # target: note_id_from_note(current_note),
         # }
-      end
+      # end
     end
 
     # File.write('_includes/notes_graph.json', JSON.dump({
