@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 ## Erwachen's Purpose
 [[Game Purpose]]
 [[Game Roots]]
