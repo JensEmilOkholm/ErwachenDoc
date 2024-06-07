@@ -1,5 +1,5 @@
-+2 Vigil  
-+1 Expertise
++2 [[Vigil]]  
++1 [[Expertise]]
 
 ## Sniff 'em Out
 Anytime you're searching for a living being or navigating or tracking, you gain +1 [[Effect]].
