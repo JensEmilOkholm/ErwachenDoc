@@ -1,5 +1,7 @@
 ---
 title: Bruiser
+layout: default
+nav_enabled: "true"
 ---
 
 +2 [[Force]]  
