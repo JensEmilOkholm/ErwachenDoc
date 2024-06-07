@@ -148,6 +148,7 @@
   },
   "active": "b96bf01219b1b005",
   "lastOpenFiles": [
+    "_plugins/bidirectional_links_generator.rb",
     "notes/playbooks/Bruiser.md",
     "docs/playbooks/Bruiser.md",
     "notes/Species/Human.md",
@@ -173,7 +174,6 @@
     "notes/playbooks/Pikesman.md",
     "notes/playbooks/Poacher.md",
     "notes/playbooks/Merchant.md",
-    "notes/playbooks/Hunter.md",
     "notes/Species",
     "notes/Moves",
     "notes/playbooks",
@@ -182,7 +182,6 @@
     "notes",
     "_plugins/open_external_links_in_new_tab.rb",
     "_plugins/embed_tweets.rb",
-    "_plugins/markdown-highlighter.rb",
-    "_plugins/bidirectional_links_generator.rb"
+    "_plugins/markdown-highlighter.rb"
   ]
 }
