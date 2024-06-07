@@ -50,5 +50,5 @@ search.tokenizer_separator: /[\s/]+/
 search.button: true
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+# color_scheme: dark
 
