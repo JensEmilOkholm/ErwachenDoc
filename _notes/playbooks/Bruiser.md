@@ -1,4 +1,4 @@
-+2 [Force](/ErwachenDoc/docs/Core%20Rules/Force.html)
++2 [[Force]]  
 +1 [[Vigil]]
 
 ## Brute Force
