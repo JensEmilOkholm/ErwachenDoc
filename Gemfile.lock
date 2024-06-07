@@ -9,7 +9,9 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    ffi (1.16.3)
+    ffi (1.17.0-arm64-darwin)
+    ffi (1.17.0-x64-mingw-ucrt)
+    ffi (1.17.0-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     google-protobuf (4.26.1-arm64-darwin)
       rake (>= 13)
@@ -94,7 +96,7 @@ PLATFORMS
   x86_64-linux-gnu
 
 DEPENDENCIES
-  ffi (~> 1.16.3)
+  ffi (~> 1.17.0)
   jekyll (~> 4.3.3)
   just-the-docs (= 0.8.2)
   nokogiri
