@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_notes/playbooks/Poacher.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_notes/playbooks/Poacher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_notes/playbooks/Poacher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_notes/playbooks/Poacher.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "b96bf01219b1b005",
   "lastOpenFiles": [
+    "_notes/playbooks/Bruiser.md",
+    "_notes/playbooks/Poacher.md",
+    "index.md",
     "_notes/index.md",
     "_notes/Erwachen/Species/Unique being.md",
     "_notes/Erwachen/Species/Halfling - Svirfneblin.md",
@@ -173,9 +176,6 @@
     "_notes/Erwachen/Moves/Try.md",
     "_notes/Erwachen/Moves/Roam Freely.md",
     "_notes/Erwachen/Moves/Pick a Lock.md",
-    "_notes/Erwachen/Moves/Pass Unseen.md",
-    "_notes/Erwachen/Moves/Help a Friend.md",
-    "_notes/Erwachen/Moves/Make a Last Ditch Effort.md",
     "_notes/Erwachen/Moves",
     "_notes/Erwachen/Core Rules",
     "_notes/Erwachen/Archived",
