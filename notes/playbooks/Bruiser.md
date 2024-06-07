@@ -1,9 +1,3 @@
----
-title: Bruiser
-layout: default
-nav_enabled: "true"
----
-
 +2 [Force](/ErwachenDoc/docs/Core%20Rules/Force.html)
 +1 [[Vigil]]
 
