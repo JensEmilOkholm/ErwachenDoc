@@ -11,12 +11,8 @@
             "id": "b96bf01219b1b005",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/playbooks/Bruiser.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/playbooks/Bruiser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/playbooks/Bruiser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/playbooks/Bruiser.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,41 +140,41 @@
   },
   "active": "b96bf01219b1b005",
   "lastOpenFiles": [
+    "docs/playbooks/Bruiser.md",
+    "notes/Species/Human.md",
+    "notes/Species/Unique being.md",
+    "notes/Species/Halfling - Svirfneblin.md",
+    "notes/Species/Halfling - Gnome.md",
+    "notes/Species/Halfling - Heartlander.md",
+    "notes/Species/Deepling.md",
+    "notes/Species/Elf.md",
+    "notes/Species/Dwarf.md",
+    "notes/Moves/Try.md",
+    "notes/Moves/Roam Freely.md",
+    "notes/Moves/Pick a Lock.md",
+    "notes/Moves/Pass Unseen.md",
+    "notes/Moves/Make a Last Ditch Effort.md",
+    "notes/Moves/Help a Friend.md",
+    "notes/Moves/Fend and Assail.md",
+    "notes/Moves/Distant Assail.md",
+    "notes/Moves/Convince and Coerce.md",
+    "notes/playbooks/Pusher.md",
+    "notes/playbooks/Swindler.md",
+    "notes/playbooks/Preacher.md",
+    "notes/playbooks/Pikesman.md",
+    "notes/playbooks/Poacher.md",
+    "notes/playbooks/Merchant.md",
+    "notes/playbooks/Hunter.md",
+    "notes/playbooks/Heretic.md",
+    "notes/Species",
+    "notes/Moves",
+    "notes/playbooks",
+    "notes/Core Rules",
+    "notes/Archived",
+    "notes",
     "_plugins/open_external_links_in_new_tab.rb",
     "_plugins/embed_tweets.rb",
     "_plugins/markdown-highlighter.rb",
-    "_plugins/bidirectional_links_generator.rb",
-    "_plugins/last_modified_at_generator.rb",
-    "_plugins/empty_front_matter_note_injector.rb",
-    "_plugins",
-    "ErwachenDoc/docs/Core Rules/Force.html.md",
-    "docs/playbooks/Bruiser.md",
-    "ErwachenDoc/docs/Core Rules",
-    "ErwachenDoc/docs",
-    "ErwachenDoc",
-    "docs/Core Rules/Force.md",
-    "index.md",
-    "docs/Species/Unique being.md",
-    "docs/Species/Halfling - Svirfneblin.md",
-    "docs/Species/Human.md",
-    "docs/Species/Halfling - Gnome.md",
-    "docs/Species/Halfling - Heartlander.md",
-    "docs/Species/Elf.md",
-    "docs/Species/Dwarf.md",
-    "docs/Species/Deepling.md",
-    "docs/playbooks/Swindler.md",
-    "docs/playbooks/Pusher.md",
-    "docs/playbooks/Preacher.md",
-    "docs/playbooks/Poacher.md",
-    "docs/playbooks/Merchant.md",
-    "docs/playbooks/Pikesman.md",
-    "docs/playbooks/Hunter.md",
-    "docs/playbooks/Heretic.md",
-    "docs/playbooks/Burglar.md",
-    "docs/playbooks/Diplomat.md",
-    "docs/Moves/Try.md",
-    "docs/Moves/Roam Freely.md",
-    "docs/Moves/Pick a Lock.md",
-    "docs/Species"
+    "_plugins/bidirectional_links_generator.rb"
   ]
 }
