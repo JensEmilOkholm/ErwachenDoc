@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bb8e849df87fb7e2",
+        "id": "baa0213bb3859d06",
         "type": "tabs",
         "children": [
           {
-            "id": "517b63490c055e40",
+            "id": "b96bf01219b1b005",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Core Rules/Force.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Core Rules/Force.md",
+                "file": "ErwachenDoc/docs/Core Rules/Force.html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Core Rules/Force.md",
+                "file": "ErwachenDoc/docs/Core Rules/Force.html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Core Rules/Force.md"
+                "file": "ErwachenDoc/docs/Core Rules/Force.html.md"
               }
             }
           }
@@ -146,9 +142,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "517b63490c055e40",
+  "active": "996b56cc9c223c0d",
   "lastOpenFiles": [
     "docs/playbooks/Bruiser.md",
+    "ErwachenDoc/docs/Core Rules/Force.html.md",
+    "ErwachenDoc/docs/Core Rules",
+    "ErwachenDoc/docs",
+    "ErwachenDoc",
+    "docs/Core Rules/Force.md",
     "index.md",
     "docs/Species/Unique being.md",
     "docs/Species/Halfling - Svirfneblin.md",
@@ -172,17 +173,12 @@
     "docs/Moves/Roam Freely.md",
     "docs/Moves/Pick a Lock.md",
     "docs/Moves/Pass Unseen.md",
-    "docs/Moves/Make a Last Ditch Effort.md",
-    "docs/Moves/Fend and Assail.md",
     "docs/Species",
     "docs/playbooks",
     "docs/Moves",
     "docs/Core Rules",
     "docs/Archived",
     "docs",
-    "Erwachen/Species",
-    "Erwachen/playbooks",
-    "Erwachen/Moves",
-    "Erwachen/Core Rules"
+    "Erwachen/Species"
   ]
 }
