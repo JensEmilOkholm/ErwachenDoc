@@ -9,4 +9,4 @@ gem "just-the-docs", "0.8.2" # pinned to the current release
 gem "webrick", "~> 1.8"
 gem "nokogiri"
 gem 'ffi', '~> 1.16.3'
-gem 'public_suffix', '~> 5.0'
+gem 'public_suffix', '~> 6.0'
