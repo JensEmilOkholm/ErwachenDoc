@@ -1,1 +1,1 @@
-Denne git repo er en øvelse i hvordan jeg kan hoste et effektivt dokumentation til brug ved BCA. Der benyttes nogle helt private noter da jeg lige har dem og de er fyldt med links og formattering. Tanken er at i fremtiden kan vi host dokumentation på vores automatisering og andre løsninger ved en lignende github-page. 
+Denne repo benyttes som vært ved Github Pages for reglerne til Erwachen
